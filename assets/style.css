@@ -13,7 +13,7 @@ xl: 1280px -- larger wide desktop size
 /* Section Styles */
 @import "navbar.css";
 @import "hero-banner.css";
-@import "services.css";
+@import "musics.css";
 @import "contact.css";
 @import "submission.css";
 @import "footer.css";
